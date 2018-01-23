@@ -8,5 +8,7 @@
   View a walkthrough of this APK and any feedback [here](https://github.com/bunsenbrowser/bunsen/raw/master/apk/bunsen.apk).
 
   Give it a try and let us know what you think!
+
+  Want to help out? Check out the Bunsen Browser [issue queue](https://github.com/bunsenbrowser/bunsen/issues). There are plenty of goodies to help out with.
 </div>
 <img src="bunsen-screenshot.png" style="width: 25%; float: right;">
