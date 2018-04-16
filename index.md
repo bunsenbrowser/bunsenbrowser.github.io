@@ -14,7 +14,6 @@ Bunsen will open sites with links to dats (`a href=dat://`) too. In your device'
   Give it a try and let us know what you think!
 
   Want to help out? Check out the Bunsen Browser [issue queue](https://github.com/bunsenbrowser/bunsen/issues). There are plenty of goodies to help out with. The [wiki](https://github.com/bunsenbrowser/bunsen/wiki) provides background on device compatability, and there's also a [Roadmap](https://github.com/bunsenbrowser/bunsen/wiki/Roadmap).
+  <img src="bunsen-dat-listing.png" style="width: 25%;">
 </div>
 <img src="bunsen-dhow-dat-cat.png" style="width: 25%; float: right;">
-<br/>
-<img src="bunsen-dat-listing.png" style="width: 25%; float: right;">
