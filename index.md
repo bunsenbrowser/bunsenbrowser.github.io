@@ -4,7 +4,7 @@
   
   An experimental P2P web browser for Android that uses [Dat](https://datproject.org) to download and share websites, online and offline.
 
-  [Download the beta2 APK](https://drive.google.com/file/d/1GRlzMzjitL27tyahs2qfkm8QvZneWS_z/view?usp=sharing), to your Android device and then tap the download to install and launch.  Then try visiting your first Dat site at dat://exploder-creationix.github.io/.
+  [Download the beta2 APK](https://drive.google.com/file/d/1GRlzMzjitL27tyahs2qfkm8QvZneWS_z/view?usp=sharing), to your Android device and then tap the download to install and launch.  Then try visiting your first Dat site at [dat://exploder-creationix.github.io/](dat://exploder-creationix.github.io/).
   
   To load another dat, enter a new address or select a dat from the history, which is listed below the input box when you are typing in it.
 
