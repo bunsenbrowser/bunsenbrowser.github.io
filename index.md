@@ -3,7 +3,7 @@
 <div style="float: left; width: 70%;">
   An experimental P2P web browser for Android that uses [Dat](https://datproject.org) to download and share websites.
 
-  If you have an Android device with an ARMv7 processor you can try it out. It's a work-in-progress. [Download the beta2 APK](https://drive.google.com/file/d/1GRlzMzjitL27tyahs2qfkm8QvZneWS_z/view?usp=sharing), install and launch, then visit dat://blog-rjsteinert.github.io/.
+  If you have an Android device with an ARMv7 processor you can try it out. It's a work-in-progress. [Download the beta3 APK](https://drive.google.com/open?id=1GRlzMzjitL27tyahs2qfkm8QvZneWS_z), install and launch, then visit dat://blog-rjsteinert.github.io/.
   
   To load another dat, enter a new address or select a dat from the history, which is listed below the input box when you are typing in it.
 
