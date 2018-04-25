@@ -1,15 +1,15 @@
 # ![bunsen logo](bunsen-logo.png) Bunsen Browser 
 
 <div style="float: left; width: 70%;">
-  An experimental P2P web browser for Android that uses [Dat](https://datproject.org) to download and share websites.
+  
+  An experimental P2P web browser for Android that uses [Dat](https://datproject.org) to download and share websites, online and offline.
 
-  If you have an Android device with an ARMv7 processor you can try it out. It's a work-in-progress. [Download the beta3 APK](https://drive.google.com/open?id=1GRlzMzjitL27tyahs2qfkm8QvZneWS_z), install and launch, then visit dat://blog-rjsteinert.github.io/.
+<<<<<<< HEAD
+  If you have an Android device with an ARMv7 processor you can try it out. It's a work-in-progress. [Download the beta3 APK](https://drive.google.com/open?id=1GRlzMzjitL27tyahs2qfkm8QvZneWS_z), install and launch, then visit one of the dat sites listed or find - or create - your own!
   
   To load another dat, enter a new address or select a dat from the history, which is listed below the input box when you are typing in it.
 
-Bunsen will open sites with links to dats (`a href=dat://`) too. In your device's browser, check out [hashbase.io](http://hashbase.io) for a list of sites and click the dat links to open them in Bunsen.
-
-  View a walkthrough of this APK and any feedback [here](https://github.com/bunsenbrowser/bunsen/issues).
+  Bunsen will open sites with links to dats (`a href=dat://`) too. In your device's browser, check out [hashbase.io](http://hashbase.io) for a list of sites and click the dat links to open them in Bunsen.
 
   Give it a try and let us know what you think!
 
