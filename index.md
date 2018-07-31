@@ -4,7 +4,7 @@
   
   An experimental P2P web browser for Android that uses [Dat](https://datproject.org) to download and share websites, online and offline.
 
-  If you have an Android device with an ARMv7 processor you can try it out. It's a work-in-progress. [Download the beta4 APK](https://github.com/bunsenbrowser/bunsen/releases/tag/0.9.0), install and launch, then visit one of the dat sites listed or find - or create - your own!
+  If you have an Android device with an ARMv7 processor you can try it out. It's a work-in-progress. [Download beta 4 from the Play store](https://play.google.com/store/apps/details?id=org.bunsenbrowser) or [download beta 4 from Github](https://github.com/bunsenbrowser/bunsen/releases/tag/0.9.0), install and launch, then visit one of the dat sites listed or find - or create - your own!
   
   To load another dat, enter a new address or select a dat from the history, which is listed below the input box when you are typing in it.
 
